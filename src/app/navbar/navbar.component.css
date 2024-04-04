@@ -1,0 +1,7 @@
+.navbar-brand {
+    color: #dc3ef9;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: #dc3ef9;
+}
