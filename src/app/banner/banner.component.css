@@ -1,0 +1,22 @@
+img{
+    height: 550px;
+    opacity: 0.8;
+}
+.banner-image{
+    position: relative;
+}
+.banner-content{
+    position: absolute;
+    top: 38%;
+    left: 40%;
+    text-align: center;
+}
+.banner-content h1{
+    font-size: 50px;
+}
+.banner-content p{
+    font-size: 20px;
+}
+.camma{
+    color: #dc3ef9;
+}
