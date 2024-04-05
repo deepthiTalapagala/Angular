@@ -15,7 +15,7 @@ img{
 }
 @keyframes fadeInUp {
     from {
-        transform: translate(-50%, -30%); 
+        transform: translate(-50%, -10%); 
     }
     to {
         transform: translate(-50%, -50%); 

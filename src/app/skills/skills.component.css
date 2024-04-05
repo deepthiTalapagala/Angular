@@ -1,0 +1,117 @@
+.progress {
+    background: rgb(228, 226, 226);
+    border-radius: 100px;
+    align-items: center;
+    display: flex;
+    height: 10px;
+    width: 500px;
+  }
+  
+  .html, .css, .bootstrap {
+    animation: html 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes html {
+    0% { width: 0; }
+    100% { width: 90%; }
+  }
+
+  .javascript {
+    animation: javascript 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes javascript {
+    0% { width: 0; }
+    100% { width: 75%; }
+  }
+
+  .jquery {
+    animation: jquery 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes jquery {
+    0% { width: 0; }
+    100% { width: 55%; }
+  }
+
+  .typescript {
+    animation: typescript 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes typescript {
+    0% { width: 0; }
+    100% { width: 75%; }
+  }
+
+  .angular {
+    animation: angular 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes angular {
+    0% { width: 0; }
+    100% { width: 85%; }
+  }
+
+  .rxjs {
+    animation: rxjs 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes rxjs {
+    0% { width: 0; }
+    100% { width: 70%; }
+  }
+
+  .ngrx {
+    animation: ngrx 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes ngrx {
+    0% { width: 0; }
+    100% { width: 70%; }
+  }
+
+  .git {
+    animation: git 3s normal forwards;
+    border-radius: 100px;
+    background: #dc3ef9;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes git {
+    0% { width: 0; }
+    100% { width: 80%; }
+  }
+
+  .percentage p{
+    margin: -8px;
+    color: #dc3ef9;
+  }
