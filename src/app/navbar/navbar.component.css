@@ -1,7 +1,10 @@
+nav{
+    padding: 0 120px;
+}
 .navbar-brand {
     color: #dc3ef9;
     font-weight: bold;
 }
-ul li a:hover{
+ul li a:hover, ul li a:focus{
     color: #dc3ef9;
 }
