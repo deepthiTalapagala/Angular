@@ -5,6 +5,6 @@ nav{
     color: #dc3ef9;
     font-weight: bold;
 }
-ul li a:hover, ul li a:focus{
+ul li a:hover, ul li a:focus, ul li a:active{
     color: #dc3ef9;
 }

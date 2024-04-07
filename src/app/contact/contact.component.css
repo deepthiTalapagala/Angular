@@ -1,0 +1,6 @@
+button{
+    background-color: #dc3ef9;
+}
+input:focus{
+    box-shadow: none;
+}
