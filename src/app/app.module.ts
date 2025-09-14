@@ -10,6 +10,10 @@ import { EducationComponent } from './education/education.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ExperienceComponent } from './experience/experience.component';
 import { ContactComponent } from './contact/contact.component';
+import { ComponentAComponent } from './component-a/component-a.component';
+import { ComponentBComponent } from './component-b/component-b.component';
+import { ChildComponent } from './child/child.component';
+import { ParentComponent } from './parent/parent.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +24,11 @@ import { ContactComponent } from './contact/contact.component';
     EducationComponent,
     SkillsComponent,
     ExperienceComponent,
-    ContactComponent
+    ContactComponent,
+    ComponentAComponent,
+    ComponentBComponent,
+    ChildComponent,
+    ParentComponent
   ],
   imports: [
     BrowserModule,
